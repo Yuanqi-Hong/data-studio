@@ -1,0 +1,2 @@
+Be careful of the units. The ivory dataset contains a mix of units; conversions and assumptions have to be made.
+Technique for applying a function on df, getting multiple returns and adding multiple columns to original df: [create multiple columns from applying function with multiple returns](https://apassionatechie.wordpress.com/2017/12/27/create-multiple-pandas-dataframe-columns-from-applying-a-function-with-multiple-returns/)
