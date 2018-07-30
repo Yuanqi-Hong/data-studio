@@ -1,2 +1,3 @@
 The main takeaway: don't _think_ you can download a dataset. Actually download it and then start doing the project.
 DON'T OPEN a tab separated txt file in this way: save the txt to a tsv - open the tsv; DO OPEN it using pandas, specifying sep='\t'. Or else when you graph the data, pandas will try to connect the NaNs rather than skipping them and leaving a blank space.
+Note: numpy arrays (see jupyter notebook)
