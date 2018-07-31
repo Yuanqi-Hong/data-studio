@@ -5,4 +5,4 @@ Illustrator tricks learned through this project:
 	- How to convert png to vectors: open png -- Window -- Trace Image -- Color -- Objects -- Image Trace -- Expand  
 HTML tricks learned:  
 	- There are 2 ways of using svg in html. The first is using it in an image tag like this:
-	<img src="filepath">; the second is using it inline, copy-paste the code directly to html. The difference is that, A, the first method makes the html code look much simpler and makes it easier to update, and B, the first method will render the entire image to be an image, meaning you can't select or search the text like you could with inline svg.  
+	`<img src="filepath">`; the second is using it inline, copy-paste the code directly to html. The difference is that, A, the first method makes the html code look much simpler and makes it easier to update, and B, the first method will render the entire image to be an image, meaning you can't select or search the text like you could with inline svg.  
