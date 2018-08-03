@@ -1,0 +1,422 @@
+2010_avg_ridership,2011_avg_ridership,2013_avg_ridership,2014_avg_ridership,borough,change_from_2013,closed_2014,prc_change_from_2013,station_trains
+13584,13977,14673,15117,Brooklyn,444,,3.03,"Utica Av (A,C)"
+13791,13774,14802,14897,Queens,95,,0.64,"30 Av (N,Q)"
+14028,15036,14769,14870,Queens,101,,0.68,"Steinway St (M,R)"
+14158,14528,14947,14768,Manhattan,179,,-1.2,137 St-City College (1)
+14389,14479,14656,14634,Queens,22,,-0.15,46 St-Bliss St (7)
+12744,13422,14380,14576,Bronx,196,,1.36,"149 St-Grand Concourse (2,4,5)"
+10349,11319,11775,14573,Brooklyn,2798,,23.76,"Marcy Av (J,M,Z)"
+13660,13587,14246,14256,Queens,10,,0.07,33 St-Rawson St (7)
+10028,10450,12610,14123,Queens,1513,,12.0,Vernon Blvd-Jackson Av (7)
+14969,13716,14010,14118,Brooklyn,108,,0.77,"Sheepshead Bay (B,Q)"
+12374,12685,13663,13935,Manhattan,272,,1.99,"81 St-Museum of Natural History (B,C)"
+13079,13254,13177,13734,Brooklyn,557,,4.23,"Coney Island-Stillwell Av (D,F,N,Q)"
+12779,12993,13276,13720,Manhattan,444,,3.34,East Broadway (F)
+13116,13650,13874,13630,Manhattan,244,,-1.76,Cathedral Pkwy-110 St (1)
+13253,13426,13597,13568,Queens,29,,-0.21,"Elmhurst Av (M,R)"
+12644,12678,13280,13515,Queens,235,,1.77,"Broadway (N,Q)"
+12504,12817,13254,13512,Brooklyn,258,,1.95,Canarsie-Rockaway Pkwy (L)
+12078,12737,13309,13460,Manhattan,151,,1.13,175 St (A)
+11249,12097,13136,13319,Manhattan,183,,1.39,"Spring St (C,E)"
+12968,13292,13500,13318,Manhattan,182,,-1.35,103 St (1)
+11979,11999,12506,12871,Brooklyn,365,,2.92,"59 St (N,R)"
+11412,12479,13156,12835,Brooklyn,321,,-2.44,"4 Av (F,G)/9 St (R)"
+12556,12815,14004,12547,Brooklyn,1457,,-10.4,Lorimer St (L)/Metropolitan Av (G)
+12770,12421,12185,12498,Brooklyn,313,,2.57,"Brighton Beach (B,Q)"
+11135,11411,12059,12497,Brooklyn,438,,3.63,"36 St (D,N,R)"
+11630,11836,12162,12452,Manhattan,290,,2.38,110 St (6)
+10003,10894,11607,12407,Manhattan,800,,6.89,"28 St (N,R)"
+11454,11465,11878,12363,Bronx,485,,4.08,"Fordham Rd (B,D)"
+11132,11729,12257,12327,Manhattan,70,,0.57,Spring St (6)
+11018,12792,12268,12242,Brooklyn,26,,-0.21,"7 Av (F,G)"
+12080,12330,12558,12231,Bronx,327,,-2.6,Fordham Rd (4)
+11173,11809,12210,12209,Queens,1,,-0.01,"Astoria Blvd (N,Q)"
+10451,10829,11617,11943,Brooklyn,326,,2.81,DeKalb Av (L)
+10710,11076,11648,11920,Brooklyn,272,,2.34,86 St (R)
+10227,10627,11508,11787,Manhattan,279,,2.42,"116 St (2,3)"
+11778,11708,11468,11752,Brooklyn,284,,2.48,"Nevins St (2,3,4,5)"
+10002,11906,12339,11744,Brooklyn,595,,-4.82,"Carroll St (F,G)"
+10803,10370,11228,11673,Manhattan,445,,3.96,181 St (1)
+10572,10771,11236,11605,Manhattan,369,,3.28,"86 St (B,C)"
+10578,11048,11562,11570,Brooklyn,8,,0.07,"Bergen St (F,G)"
+8916,9577,11132,11554,Queens,422,,3.79,"Queensboro Plaza (N,Q,7)"
+11232,11243,11560,11538,Bronx,22,,-0.19,Burnside Av (4)
+10215,10480,10873,11341,Brooklyn,468,,4.3,8 Av (N)
+10620,10751,11100,11211,Queens,111,,1.0,40 St-Lowery St (7)
+10457,10593,10914,11091,Queens,177,,1.62,111 St (7)
+8995,9670,10876,11048,Brooklyn,172,,1.58,"Myrtle Av (J,M,Z)"
+8165,8902,11323,10869,Manhattan,454,,-4.01,Rector St (1)
+9723,10044,10404,10861,Manhattan,457,,4.39,181 St (A)
+9899,9972,10677,10822,Manhattan,145,,1.36,157 St (1)
+9179,9672,10788,10707,Brooklyn,81,,-0.75,"Newkirk Plaza (B,Q)"
+9750,10037,10418,10652,Brooklyn,234,,2.25,"Euclid Av (A,C)"
+9442,9828,10136,10643,Brooklyn,507,,5.0,Graham Av (L)
+9754,10153,10431,10231,Bronx,200,Yes,-1.92,Kingsbridge Rd (4)
+9037,9249,9815,10203,Manhattan,388,,3.95,"96 St (B,C)"
+8370,8869,9696,10125,Queens,429,,4.42,"Queens Plaza (E,M,R)"
+10494,10316,10144,10111,Bronx,33,,-0.33,Hunts Point Av (6)
+9417,9510,9931,10099,Manhattan,168,,1.69,145 St (1)
+10005,10077,10076,10060,Manhattan,16,,-0.16,Christopher St-Sheridan Sq (1)
+9429,10463,9984,9954,Brooklyn,30,,-0.3,"Church Av (F,G)"
+9815,9421,9672,9948,Bronx,276,,2.85,"Simpson St (2,5)"
+8839,9054,9374,9906,Bronx,532,,5.68,"167 St (B,D)"
+9691,9929,9794,9852,Brooklyn,58,,0.59,"Church Av (2,5)"
+9220,9351,9904,9793,Bronx,111,,-1.12,167 St (4)
+8513,8767,9157,9727,Bronx,570,,6.22,"Tremont Av (B,D)"
+8496,8557,9761,9715,Brooklyn,46,,-0.47,"Prospect Park (B,Q,S)"
+8691,8850,9614,9688,Bronx,74,,0.77,"Pelham Pkwy (2,5)"
+9742,9760,9604,9672,Brooklyn,68,,0.71,"Hoyt-Schermerhorn Sts (A,C,G)"
+9246,9399,9529,9608,Queens,79,,0.83,"46 St (M,R)"
+8098,8472,9130,9559,Manhattan,429,,4.7,"Central Park North-110 St (2,3)"
+9238,9333,9475,9544,Queens,69,,0.73,"67 Av (M,R)"
+9614,9615,9389,9495,Brooklyn,106,,1.13,"7 Av (B,Q)"
+9439,9578,9588,9459,Bronx,129,Yes,-1.35,Mosholu Pkwy (4)
+9234,9259,9525,9403,Bronx,122,,-1.28,170 St (4)
+8680,9170,8951,9372,Bronx,421,,4.7,231 St (1)
+8435,8679,9067,9361,Manhattan,294,,3.24,"72 St (B,C)"
+8243,8477,9165,9258,Brooklyn,93,,1.01,"Flushing Av (J,M)"
+8412,8441,8863,9149,Brooklyn,286,,3.23,"Broadway Junction (A,C,J,L,Z)"
+8202,8888,8866,9136,Manhattan,270,,3.05,Inwood-207 St (A)
+8600,8949,9042,9106,Queens,64,,0.71,169 St (F)
+6621,7426,8629,8973,Brooklyn,344,,3.99,York St (F)
+8365,8678,8761,8914,Queens,153,,1.75,21 St-Queensbridge (F)
+7343,7791,8435,8765,Brooklyn,330,,3.91,Nassau Av (G)
+7968,8199,8505,8638,Manhattan,133,,1.56,18 St (1)
+7561,7686,8258,8580,Manhattan,322,,3.9,191 St (1)
+7715,7786,8662,8474,Queens,188,,-2.17,Rockaway Blvd (A)
+7602,7779,8043,8466,Bronx,423,,5.26,Norwood-205 St (D)
+8119,8240,8079,8283,Brooklyn,204,,2.53,Bay Ridge Av (R)
+6259,6586,7543,8174,Brooklyn,631,,8.37,"High St (A,C)"
+8052,7749,7979,8170,Bronx,191,,2.39,"West Farms Sq-East Tremont Av (2,5)"
+7461,7621,7831,8084,Brooklyn,253,,3.23,Sutter Av-Rutland Rd (3)
+7243,7468,7995,8077,Manhattan,82,,1.03,125 St (1)
+7666,7715,7757,8015,Brooklyn,258,,3.33,"Newkirk Av (2,5)"
+7208,7189,7422,7975,Bronx,553,,7.45,"Kingsbridge Rd (B,D)"
+7722,7882,8066,7971,Brooklyn,95,,-1.18,"Grand Army Plaza (2,3)"
+6985,7238,7667,7951,Bronx,284,,3.7,3 Av-138 St (6)
+7551,7212,7424,7857,Bronx,433,,5.83,"Prospect Av (2,5)"
+6923,7169,7444,7824,Brooklyn,380,,5.1,Grand St (L)
+7523,8073,8461,7819,Brooklyn,642,,-7.59,Greenpoint Av (G)
+6040,6348,7300,7778,Brooklyn,478,,6.55,Bedford-Nostrand Avs (G)
+6717,7045,7339,7752,Bronx,413,,5.63,"Gun Hill Rd (2,5)"
+6420,6672,7308,7720,Brooklyn,412,,5.64,Halsey St (L)
+7185,7409,7639,7720,Brooklyn,81,,1.06,"Winthrop St (2,5)"
+7513,7852,7776,7683,Bronx,93,,-1.2,Woodlawn (4)
+7326,7491,7476,7641,Queens,165,,2.21,Ozone Park-Lefferts Blvd (A)
+7227,7049,7339,7599,Bronx,260,,3.54,"174 St (2,5)"
+7352,7194,7688,7577,Queens,111,,-1.44,"36 Av (N,Q)"
+7423,7533,7479,7512,Brooklyn,33,,0.44,53 St (R)
+5931,6518,7003,7489,Bronx,486,,6.94,"East 180 St (2,5)"
+6538,6705,6772,7442,Bronx,670,,9.89,Pelham Bay Park (6)
+7066,7049,7235,7431,Queens,196,,2.71,"Northern Blvd (M,R)"
+6359,6663,6820,7351,Bronx,531,,7.79,Westchester Sq-East Tremont Av (6)
+6753,6594,7111,7322,Brooklyn,211,,2.97,Bay Pkwy (D)
+6497,6703,6990,7301,Brooklyn,311,,4.45,Bay Pkwy (N)
+6050,6530,7126,7298,Brooklyn,172,,2.41,Morgan Av (L)
+6597,6742,7117,7253,Manhattan,136,,1.91,"Cathedral Pkwy-110 St (B,C)"
+6508,6715,7034,7244,Brooklyn,210,,2.99,Fort Hamilton Pkwy (N)
+5408,5771,6612,7230,Brooklyn,618,,9.35,Jefferson St (L)
+7059,7218,6978,7208,Brooklyn,230,,3.3,45 St (R)
+6123,6278,6803,7193,Manhattan,390,,5.73,3 Av (L)
+6262,6535,6657,7138,Brooklyn,481,,7.23,"Hoyt St (2,3)"
+7092,4025,6564,7112,Manhattan,548,Yes,8.35,Dyckman St (1)
+6148,6504,6943,7107,Bronx,164,,2.36,Van Cortlandt Park-242 St (1)
+5945,6153,6594,7005,Manhattan,411,,6.23,"116 St (B,C)"
+6054,6155,6563,6988,Bronx,425,,6.48,"170 St (B,D)"
+5946,6268,6731,6961,Brooklyn,230,,3.42,Montrose Av (L)
+6440,6596,6830,6951,Queens,121,,1.77,52 St (7)
+4101,6816,6821,6922,Brooklyn,101,Yes,1.48,Avenue U (Q)
+5404,5698,6642,6719,Brooklyn,77,,1.16,Clinton-Washington Avs (C)
+5935,7088,6557,6687,Manhattan,130,,1.98,Dyckman St (A)
+2304,9603,6588,6669,Bronx,81,Yes,1.23,Morrison Av-Soundview (6)
+6023,6113,6400,6666,Queens,266,,4.16,Hunters Point Av (7)
+6037,6150,6303,6645,Bronx,342,,5.43,"Bedford Park Blvd (B,D)"
+6015,6223,6349,6626,Brooklyn,277,,4.36,New Lots Av (3)
+5733,5554,6293,6617,Brooklyn,324,,5.15,79 St (D)
+6013,6174,6463,6540,Queens,77,,1.19,Parsons Blvd (F)
+6401,5746,5635,6525,Manhattan,890,Yes,15.79,"Broad St (J,Z)"
+9042,2240,6377,6496,Bronx,119,Yes,1.87,Elder Av (6)
+6220,4725,6448,6495,Brooklyn,47,Yes,0.73,"15 St-Prospect Park (F,G)"
+5348,5786,6227,6492,Brooklyn,265,,4.26,"Franklin Av (C,S)"
+6089,6216,6270,6475,Brooklyn,205,,3.27,Grant Av (A)
+6738,7010,6528,6415,Brooklyn,113,,-1.73,Union St (R)
+6071,6162,6360,6356,Bronx,4,Yes,-0.06,183 St (4)
+5917,6745,6098,6336,Manhattan,238,,3.9,207 St (1)
+5699,5516,6162,6326,Brooklyn,164,Yes,2.66,18 Av (D)
+5874,6073,6186,6312,Bronx,126,,2.04,Brook Av (6)
+5413,5787,5999,6277,Brooklyn,278,,4.63,"Gates Av (J,Z)"
+5691,5960,6039,6277,Manhattan,238,,3.94,Canal St (1)
+5378,5608,5805,6174,Brooklyn,369,,6.36,Halsey St (J)
+5897,6052,6201,6089,Bronx,112,,-1.81,Bedford Park Blvd-Lehman College (4)
+5406,5596,5971,6083,Brooklyn,112,,1.88,"Clark St (2,3)"
+6742,6860,6036,6060,Brooklyn,24,,0.4,Avenue J (Q)
+5715,5848,5974,6051,Brooklyn,77,,1.29,Bay Ridge-95 St (R)
+5776,5794,6002,6038,Bronx,36,,0.6,Gun Hill Rd (5)
+5955,5533,5857,6004,Brooklyn,147,,2.51,9 Av (D)
+7870,6576,6321,5998,Manhattan,323,,-5.11,Roosevelt Island (F)
+4897,5152,5678,5968,Brooklyn,290,,5.11,Kingston-Throop Avs (C)
+6006,6230,5934,5943,Brooklyn,9,,0.15,Prospect Av (R)
+5529,5662,5807,5933,Brooklyn,126,,2.17,Saratoga Av (3)
+4517,5383,5905,5914,Bronx,9,,0.15,176 St (4)
+4628,4632,5836,5903,Brooklyn,67,Yes,1.15,Avenue M (Q)
+5848,5748,5995,5891,Bronx,104,,-1.73,Mt Eden Av (4)
+5804,5998,5825,5867,Manhattan,42,,0.72,Franklin St (1)
+5597,5755,5915,5783,Brooklyn,132,,-2.23,"Sterling St (2,5)"
+5570,4758,5456,5766,Manhattan,310,Yes,5.68,Marble Hill-225 St (1)
+5282,5193,5526,5737,Bronx,211,,3.82,"Allerton Av (2,5)"
+5729,5715,5632,5735,Brooklyn,103,,1.83,Rockaway Av (3)
+6578,6812,5318,5727,Brooklyn,409,Yes,7.69,Cortelyou Rd (Q)
+5800,5798,5675,5718,Brooklyn,43,,0.76,Pennsylvania Av (3)
+5179,5379,5473,5701,Bronx,228,,4.17,"233 St (2,5)"
+5001,5431,5333,5677,Queens,344,,6.45,Fresh Pond Rd (M)
+4967,4268,5531,5650,Brooklyn,119,Yes,2.15,"Fort Hamilton Pkwy (F,G)"
+5249,5110,5432,5631,Bronx,199,,3.66,"Jackson Av (2,5)"
+4878,5145,5592,5620,Manhattan,28,,0.5,"135 St (B,C)"
+4840,5007,5381,5570,Brooklyn,189,,3.51,Ralph Av (C)
+5146,5228,5353,5548,Brooklyn,195,,3.64,77 St (R)
+5049,5469,5092,5491,Brooklyn,399,,7.84,18 Av (N)
+3361,4745,5497,5393,Manhattan,104,Yes,-1.89,Cortlandt St (R)
+5017,5065,5154,5344,Brooklyn,190,,3.69,Kings Hwy (N)
+4139,4412,4916,5330,Brooklyn,414,,8.42,Myrtle-Willoughby Avs (G)
+4537,4660,4885,5301,Bronx,416,,8.52,"174-175 Sts (B,D)"
+5155,5340,5159,5270,Brooklyn,111,,2.15,New Utrecht Av (N)/62 St (D)
+4815,4971,5137,5223,Brooklyn,86,,1.67,Rockaway Av (C)
+4942,5190,5294,5178,Brooklyn,116,,-2.19,Clinton-Washington Avs (G)
+4582,4955,4825,5168,Bronx,343,,7.11,Wakefield-241 St (2)
+5031,4984,5085,5128,Queens,43,,0.85,69 St (7)
+4588,4882,4992,5121,Queens,129,,2.58,Jamaica-Van Wyck (E)
+4717,4825,4949,5017,Brooklyn,68,,1.37,Kingston Av (3)
+3961,4255,4785,5005,Brooklyn,220,,4.6,New Lots Av (L)
+6407,6691,4240,4969,Brooklyn,729,Yes,17.19,Parkside Av (Q)
+4333,4603,4948,4948,Bronx,0,,0.0,Eastchester-Dyre Av (5)
+7617,7540,5632,4938,Bronx,694,Yes,-12.32,Castle Hill Av (6)
+4517,4478,4859,4930,Brooklyn,71,,1.46,20 Av (D)
+4551,4667,4683,4925,Brooklyn,242,,5.17,"Crescent St (J,Z)"
+4813,4835,4938,4889,Brooklyn,49,,-0.99,"Eastern Pkwy-Brooklyn Museum (2,3)"
+4296,4382,4762,4867,Bronx,105,,2.2,"Freeman St (2,5)"
+4627,4665,4825,4857,Brooklyn,32,,0.66,Lafayette Av (C)
+4364,4564,4796,4836,Brooklyn,40,,0.83,"Lorimer St (J,M)"
+4782,4562,4760,4832,Manhattan,72,,1.51,"103 St (B,C)"
+4550,4546,4554,4813,Bronx,259,,5.69,"182-183 Sts (B,D)"
+4260,4433,4576,4796,Queens,220,,4.81,"Woodhaven Blvd (J,Z)"
+4605,4693,4932,4795,Queens,137,,-2.78,Sutphin Blvd (F)
+4763,1834,2854,4762,Brooklyn,1908,Yes,66.85,"Smith-9 Sts (F,G)"
+4315,4528,4751,4761,Brooklyn,10,,0.21,Kosciuszko St (J)
+4318,4220,4607,4761,Brooklyn,154,,3.34,25 Av (D)
+4662,4750,2651,4748,Queens,2097,Yes,79.1,Far Rockaway-Mott Av (A)
+5688,5655,4664,4695,Queens,31,,0.66,"Briarwood-Van Wyck Blvd (E,F)"
+4365,3740,4538,4682,Brooklyn,144,Yes,3.17,71 St (D)
+4050,4201,4555,4675,Brooklyn,120,,2.63,Sutter Av (L)
+4101,4181,4291,4664,Queens,373,,8.69,80 St (A)
+4471,4554,4676,4622,Brooklyn,54,,-1.15,Ditmas Av (F)
+4226,4336,4580,4619,Bronx,39,,0.85,East 149 St (6)
+3935,4170,4490,4601,Brooklyn,111,,2.47,Classon Av (G)
+4003,4340,4540,4597,Queens,57,,1.26,"36 St (M,R)"
+4104,4346,4479,4593,Bronx,114,,2.55,"225 St (2,5)"
+4648,4472,4675,4555,Queens,120,,-2.57,Mets-Willets Point (7)
+3988,4425,4546,4549,Manhattan,3,,0.07,190 St (A)
+3523,3699,4266,4502,Brooklyn,236,,5.53,Fulton St (G)
+3972,4146,4375,4447,Brooklyn,72,,1.65,"Beverly Rd (2,5)"
+9840,8954,5666,4344,Manhattan,1322,Yes,-23.33,City Hall (R)
+3815,3983,4092,4318,Queens,226,,5.52,Middle Village-Metropolitan Av (M)
+3903,4011,4190,4277,Brooklyn,87,,2.08,20 Av (N)
+3663,3772,4080,4271,Manhattan,191,,4.68,163 St-Amsterdam Av (C)
+3980,4069,4151,4268,Brooklyn,117,,2.82,Nostrand Av (3)
+3400,3532,3865,4248,Brooklyn,383,,9.91,Wilson Av (L)
+3772,3640,3984,4248,Brooklyn,264,,6.63,Fort Hamilton Pkwy (D)
+3608,3901,4103,4210,Queens,107,,2.61,Forest Av (M)
+3706,3840,4177,4196,Bronx,19,,0.45,Baychester Av (5)
+8588,8083,5362,4127,Manhattan,1235,Yes,-23.03,Rector St (R)
+5093,1427,3995,4099,Bronx,104,Yes,2.6,St Lawrence Av (6)
+3731,3754,3969,4092,Brooklyn,123,,3.1,"President St (2,5)"
+4145,4205,4204,4050,Brooklyn,154,,-3.66,18 Av (F)
+2606,4114,3941,4033,Brooklyn,92,Yes,2.33,Neck Rd (Q)
+3823,3845,3948,4022,Manhattan,74,,1.87,"155 St (B,D)"
+3739,3701,3842,3984,Bronx,142,,3.7,Cypress Av (6)
+3812,3915,3821,3959,Brooklyn,138,,3.61,25 St (R)
+3277,3553,3790,3952,Manhattan,162,,4.27,Harlem-148 St (3)
+3514,3019,3598,3934,Bronx,336,Yes,9.34,238 St (1)
+4127,4344,4070,3923,Brooklyn,147,,-3.61,"Bergen St (2,3)"
+3525,3684,3818,3911,Brooklyn,93,,2.44,East 105 St (L)
+3643,3704,3792,3860,Queens,68,,1.79,85 St-Forest Pkwy (J)
+3872,3804,3738,3857,Brooklyn,119,,3.18,Avenue U (N)
+3307,3420,3878,3850,Bronx,28,,-0.72,"Nereid Av (2,5)"
+3325,3575,3429,3806,Brooklyn,377,Yes,10.99,Knickerbocker Av (M)
+3686,3714,3759,3777,Queens,18,,0.48,"75 St-Elderts Ln (J,Z)"
+3692,3811,3763,3742,Queens,21,,-0.56,"75 Av (E,F)"
+3392,3387,3612,3672,Bronx,60,,1.66,"Burke Av (2,5)"
+3313,3448,3532,3647,Queens,115,,3.26,"65 St (M,R)"
+2873,3136,3426,3631,Manhattan,205,,5.98,145 St (3)
+3478,3605,3655,3616,Brooklyn,39,,-1.07,Kings Hwy (F)
+3381,3366,3492,3603,Brooklyn,111,,3.18,"Norwood Av (J,Z)"
+2951,2974,3420,3571,Bronx,151,,4.42,"Intervale Av (2,5)"
+3261,3337,3483,3544,Bronx,61,,1.75,"219 St (2,5)"
+3273,3418,3494,3531,Bronx,37,,1.06,Longwood Av (6)
+2833,2768,3262,3504,Queens,242,,7.42,"39 Av (N,Q)"
+3217,3186,3368,3500,Brooklyn,132,,3.92,Broadway (G)
+3080,3148,3328,3467,Brooklyn,139,,4.18,Cleveland St (J)
+3302,3415,3431,3438,Brooklyn,7,,0.2,Van Siclen Av (3)
+3377,3458,3411,3419,Brooklyn,8,,0.23,Avenue N (F)
+3013,3076,3222,3416,Bronx,194,,6.02,"138 St-Grand Concourse (4,5)"
+3139,3236,3254,3304,Bronx,50,,1.54,Pelham Pkwy (5)
+3129,3008,3308,3289,Brooklyn,19,,-0.57,50 St (D)
+2548,2903,1744,3282,Brooklyn,1538,Yes,88.19,Central Av (M)
+2917,2968,3149,3263,Brooklyn,114,,3.62,Shepherd Av (C)
+3350,3314,3141,3124,Brooklyn,17,,-0.54,Ocean Pkwy (Q)
+2497,2678,2959,3078,Brooklyn,119,,4.02,Livonia Av (L)
+2829,2854,2974,3050,Brooklyn,76,,2.56,Van Siclen Av (C)
+2789,2984,2967,3050,Brooklyn,83,,2.8,"Chauncey St (J,Z)"
+3016,2763,2743,3015,Manhattan,272,,9.92,"Bowery (J,Z)"
+2888,2757,2959,3005,Bronx,46,,1.55,"Bronx Park East (2,5)"
+2174,1724,2861,2961,Brooklyn,100,Yes,3.5,Avenue H (Q)
+2615,2765,2883,2940,Brooklyn,57,,1.98,"Van Siclen Av (J,Z)"
+3260,3117,2793,2875,Brooklyn,82,,2.94,Bay 50 St (D)
+2789,2810,2972,2859,Brooklyn,113,,-3.8,Avenue X (F)
+2420,2628,2859,2859,Brooklyn,0,,0.0,"Hewes St (J,M)"
+2667,2729,4972,2835,Queens,2137,,-42.98,Howard Beach-JFK Airport (A)
+2618,2711,2718,2815,Queens,97,,3.57,111 St (A)
+2667,2696,2757,2767,Brooklyn,10,,0.36,Avenue P (F)
+3436,3567,2340,2690,Brooklyn,350,Yes,14.96,Beverley Rd (Q)
+2527,2558,2575,2659,Queens,84,,3.26,"104 St (J,Z)"
+2746,2687,2658,2639,Brooklyn,19,,-0.71,Liberty Av (C)
+1930,2032,2373,2627,Brooklyn,254,,10.7,Flushing Av (G)
+2389,2491,2515,2622,Brooklyn,107,,4.25,86 St (N)
+2650,2683,2605,2596,Queens,9,,-0.35,111 St (J)
+2279,2455,2529,2586,Manhattan,57,,2.25,155 St (C)
+2235,2433,2428,2545,Queens,117,,4.82,Seneca Av (M)
+2624,1798,1317,2448,Queens,1131,Yes,85.88,Beach 60 St (A)
+2271,2387,2443,2448,Brooklyn,5,,0.2,Alabama Av (J)
+2176,2248,2222,2397,Queens,175,,7.88,"121 St (J,Z)"
+2142,2153,2206,2361,Brooklyn,155,,7.03,Junius St (3)
+1883,1916,1514,2273,Bronx,759,Yes,50.13,Middletown Rd (6)
+2506,2478,2069,2262,Brooklyn,193,,9.33,"West 8 St-New York Aquarium (F,Q)"
+1871,1966,2210,2253,Bronx,43,,1.95,Morris Park (5)
+2328,2290,2283,2250,Brooklyn,33,,-1.45,Avenue I (F)
+2331,2229,2296,2215,Brooklyn,81,,-3.53,Avenue U (F)
+1546,2236,1118,2183,Queens,1065,Yes,95.26,Beach 67 St-Arverne By The Sea (A)
+3011,3315,3718,2155,Bronx,1563,,-42.04,Buhre Av (6)
+2648,2680,2719,2065,Queens,654,,-24.05,88 St (A)
+1949,2006,2078,2057,Manhattan,21,,-1.01,215 St (1)
+2539,2741,3253,2012,Bronx,1241,,-38.15,Zerega Av (6)
+1944,1983,1964,1981,Brooklyn,17,,0.87,55 St (D)
+2261,2259,2077,1968,Brooklyn,109,,-5.25,Park Pl (S)
+1385,1440,1580,1725,Brooklyn,145,,9.18,Atlantic Av (L)
+1329,1702,904,1722,Queens,818,Yes,90.49,Beach 25 St (A)
+524,2342,1685,1707,Bronx,22,Yes,1.31,Whitlock Av (6)
+1720,1794,1749,1698,Brooklyn,51,,-2.92,Neptune Av (F)
+1246,1322,1509,1683,Brooklyn,174,,11.53,Bushwick Av-Aberdeen St (L)
+61,116,551,1597,Queens,1046,,189.84,Aqueduct Racetrack (A)
+1386,1398,1575,1516,Brooklyn,59,,-3.75,Bay Pkwy (F)
+1398,1434,1431,1444,Brooklyn,13,,0.91,Cypress Hills (J)
+1693,1751,1736,1333,Queens,403,,-23.21,104 St (A)
+1050,1123,1309,1265,Queens,44,,-3.36,21 St (G)
+791,1386,1951,1122,Queens,829,,-42.49,Aqueduct-North Conduit Av (A)
+871,941,911,927,Bronx,16,,1.76,East 143 St-St Mary's St (6)
+1111,622,466,872,Queens,406,Yes,87.12,Beach 36 St (A)
+908,1019,463,846,Queens,383,Yes,82.72,"Beach 90 St (A,S)"
+778,845,379,677,Queens,298,Yes,78.63,"Rockaway Park-Beach 116 St (A,S)"
+478,748,297,581,Queens,284,Yes,95.62,Beach 44 St (A)
+503,615,292,563,Queens,271,Yes,92.81,"Beach 98 St (A,S)"
+208,255,141,260,Queens,119,Yes,84.4,"Beach 105 St (A,S)"
+318,304,127,251,Queens,124,Yes,97.64,"Broad Channel (A,S)"
+0,0,0,0,Manhattan,0,Yes,0.0,Cortlandt St (1)
+182170,189426,197696,204908,Manhattan,7212,,3.65,"Times Sq-42 St (N,Q,R,S,1,2,3,7)/42 St (A,C,E)"
+144350,147644,153861,157899,Manhattan,4038,,2.62,"Grand Central-42 St (S,4,5,6,7)"
+120764,121081,122517,125355,Manhattan,2838,,2.32,"34 St-Herald Square (B,D,F,M,N,Q,R)"
+106380,107352,108158,109472,Manhattan,1314,,1.21,"14 St-Union Sq (L,N,Q,R,4,5,6)"
+87736,87482,90042,92693,Manhattan,2651,,2.94,"34 St-Penn Station (1,2,3)"
+80009,81585,83717,85634,Manhattan,1917,,2.29,"34 St-Penn Station (A,C,E)"
+66058,67901,72236,74572,Manhattan,2336,,3.23,"59 St-Columbus Circle (A,B,C,D,1)"
+62774,66045,69973,70606,Manhattan,633,,0.9,"Lexington Av-53 St (E,M)/51 St (6)"
+64287,63203,64461,69444,Manhattan,4983,,7.73,"Fulton St (A,C,J,Z,2,3,4,5)"
+63138,65855,67841,69332,Manhattan,1491,,2.2,"Lexington Av (N,Q,R)/59 St (4,5,6)"
+60965,62214,64741,65634,Manhattan,893,,1.38,"86 St (4,5,6)"
+56758,59979,61099,62693,Manhattan,1594,,2.61,"47-50 Sts-Rockefeller Center (B,D,F,M)"
+59093,60184,60190,60252,Queens,62,,0.1,Flushing-Main St (7)
+50671,53178,53426,55683,Manhattan,2257,,4.22,"Chambers St (A,C)/WTC (E)/Park Place (2,3)"
+47741,50375,53222,54289,Manhattan,1067,,2.0,"42 St-Bryant Pk (B,D,F,M)/5 Av (7)"
+49216,49828,50841,51285,Queens,444,,0.87,"74-Bway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)"
+47204,47831,49316,49990,Manhattan,674,,1.37,"14 St (F,M,1,2,3)/6 Av (L)"
+46435,45700,44696,44362,Manhattan,334,,-0.75,"Canal St (J,N,Q,R,Z,6)"
+36777,38802,42718,43953,Manhattan,1235,,2.89,"14 St (A,C,E)/8 Av (L)"
+39327,40423,41686,42261,Queens,575,,1.38,"Jamaica Center-Parsons-Archer (E,J,Z)"
+37175,37873,40798,41968,Manhattan,1170,,2.87,"West 4 St-Washington Sq (A,B,C,D,E,F,M)"
+32497,33160,39871,41645,Brooklyn,1774,,4.45,"Atlantic Av-Barclays Ctr (B,D,N,Q,R,2,3,4,5)"
+35884,38037,40183,41405,Brooklyn,1222,,3.04,"Jay St-MetroTech (A,C,F,R)"
+36900,39180,40853,40639,Manhattan,214,,-0.52,"72 St (1,2,3)"
+34191,36301,38799,40148,Manhattan,1349,,3.48,"Broadway-Lafayette St (B,D,F,M)/Bleecker St (6)"
+35053,36550,38711,39254,Manhattan,543,,1.4,"96 St (1,2,3)"
+38057,38026,38428,38944,Brooklyn,516,,1.34,"Court St (R)/Borough Hall (2,3,4,5)"
+35579,36607,37182,37521,Manhattan,339,,0.91,77 St (6)
+36939,36350,36680,37160,Manhattan,480,,1.31,"Brooklyn Bridge-City Hall (4,5,6)/Chambers St (J,Z)"
+34984,36026,36562,36208,Manhattan,354,,-0.97,68 St-Hunter College (6)
+26411,27015,30640,34830,Manhattan,4190,,13.67,"Bowling Green (4,5)"
+30497,31181,32783,32863,Manhattan,80,,0.24,33 St (6)
+30929,31206,31777,31212,Manhattan,565,,-1.78,23 St (6)
+27990,28341,29425,30168,Manhattan,743,,2.53,"125 St (4,5,6)"
+27958,27497,28159,29414,Manhattan,1255,,4.46,"57 St-7 Av (N,Q,R)"
+25100,27049,28749,29327,Manhattan,578,,2.01,"23 St (F,M)"
+24584,25084,27395,28428,Manhattan,1033,,3.77,"125 St (A,B,C,D)"
+27476,27368,27780,28287,Brooklyn,507,,1.83,"Crown Heights-Utica Av (3,4)"
+25371,25559,26706,28075,Manhattan,1369,,5.13,"Wall St (2,3)"
+26494,27123,27728,27784,Queens,56,,0.2,"Forest Hills-71 Av (E,F,M,R)"
+26763,27280,28289,27693,Queens,596,,-2.11,"Kew Gardens-Union Turnpike (E,F)"
+26159,26631,26972,27541,Bronx,569,,2.11,"161 St-Yankee Stadium (B,D,4)"
+24636,25062,26192,27251,Manhattan,1059,,4.04,50 St (1)
+21149,22520,25755,27224,Brooklyn,1469,,5.7,Bedford Av (L)
+23239,23970,25939,26761,Manhattan,822,,3.17,"5 Av-53 St (E,M)"
+25284,25480,25356,26546,Manhattan,1190,,4.69,"49 St (N,Q,R)"
+24870,25848,26232,26529,Manhattan,297,,1.13,96 St (6)
+23572,24019,25041,25659,Manhattan,618,,2.47,"168 St (A,C,1)"
+21934,22900,24782,25620,Manhattan,838,,3.38,"23 St (C,E)"
+22551,22986,25078,25619,Manhattan,541,,2.16,"Wall St (4,5)"
+23955,24022,24001,25161,Bronx,1160,,4.83,"3 Av-149 St (2,5)"
+21717,22436,23651,24311,Manhattan,660,,2.79,66 St-Lincoln Center (1)
+21157,22039,23467,24286,Manhattan,819,,3.49,1 Av (L)
+20798,22127,23691,24154,Manhattan,463,,1.95,"Delancey St (F)/Essex St (J,M,Z)"
+23304,23284,23770,24153,Manhattan,383,,1.61,"Grand St (B,D)"
+20007,22080,22760,24060,Manhattan,1300,,5.71,"23 St (N,R)"
+21619,22683,23147,23862,Manhattan,715,,3.09,"Chambers St (1,2,3)"
+22274,22794,23696,23856,Manhattan,160,,0.68,28 St (6)
+20730,21576,22879,23805,Manhattan,926,,4.05,"145 St (A,B,C,D)"
+20706,21630,23012,23747,Queens,735,,3.19,"Sutphin Blvd-Archer Av-JFK Airport (E,J,Z)"
+22766,23174,23280,23093,Queens,187,,-0.8,Jamaica-179 St (F)
+29014,29583,20405,23017,Manhattan,2612,Yes,12.8,South Ferry (1)/Whitehall St (R)
+24848,21610,20446,22433,Queens,1987,,9.72,"Court Sq (E,G,M,7)"
+22673,22502,22276,22156,Queens,120,,-0.54,"Woodhaven Blvd (M,R)"
+21355,22168,21941,21865,Brooklyn,76,,-0.35,"Flatbush Av-Brooklyn College (2,5)"
+21593,21240,20818,21116,Queens,298,,1.43,Junction Blvd (7)
+16936,17403,19406,20993,Manhattan,1587,,8.18,"50 St (C,E)"
+18901,19269,19766,20221,Manhattan,455,,2.3,86 St (1)
+17975,18986,19738,19974,Manhattan,236,,1.2,"Canal St (A,C,E)"
+17751,18583,19216,19814,Queens,598,,3.11,103 St-Corona Plaza (7)
+18200,18797,18394,19245,Manhattan,851,,4.63,"5 Av-59 St (N,Q,R)"
+16445,16689,18167,19203,Brooklyn,1036,,5.7,"Myrtle-Wyckoff Avs (L,M)"
+19091,17639,18799,19010,Brooklyn,211,,1.12,"Kings Hwy (B,Q)"
+17466,17886,18298,18413,Queens,115,,0.63,"Grand Av-Newtown (M,R)"
+17630,17632,17914,17803,Manhattan,111,,-0.62,Astor Place (6)
+12724,15516,16614,17746,Bronx,1132,Yes,6.81,Parkchester (6)
+14696,14876,17638,17473,Brooklyn,165,,-0.94,"Church Av (B,Q)"
+16905,17180,17318,17350,Brooklyn,32,,0.18,"DeKalb Av (B,Q,R)"
+16759,17759,16597,17248,Manhattan,651,,3.92,"8 St-New York University (N,R)"
+17090,17364,17801,17183,Manhattan,618,,-3.47,2 Av (F)
+16148,16541,17039,17178,Queens,139,,0.82,"Astoria-Ditmars Blvd (N,Q)"
+15264,15868,16843,17062,Brooklyn,219,,1.3,"Nostrand Av (A,C)"
+15952,16276,16576,16987,Manhattan,411,,2.48,79 St (1)
+14004,14530,15800,16833,Manhattan,1033,,6.54,"7 Av (B,D,E)"
+16680,16734,16559,16807,Queens,248,,1.5,Woodside-61 St (7)
+14940,15557,16334,16771,Queens,437,,2.68,"63 Dr-Rego Park (M,R)"
+16647,16679,16743,16747,Queens,4,,0.02,90 St-Elmhurst Av (7)
+15655,16206,16675,16674,Manhattan,1,,-0.01,116 St (6)
+15210,15673,16189,16641,Manhattan,452,,2.79,103 St (6)
+15808,16130,16363,16460,Manhattan,97,,0.59,116 St-Columbia University (1)
+15575,15811,15662,15899,Queens,237,,1.51,82 St-Jackson Hts (7)
+13908,14814,15736,15878,Manhattan,142,,0.9,Houston St (1)
+14071,14795,15775,15787,Brooklyn,12,,0.08,"Franklin Av (2,3,4,5)/Botanic Garden (S)"
+13878,14101,15351,15744,Manhattan,393,,2.56,"125 St (2,3)"
+13179,13634,15149,15568,Manhattan,419,,2.77,28 St (1)
+14379,14663,15283,15542,Manhattan,259,,1.69,23 St (1)
+14426,15045,15363,15506,Manhattan,143,,0.93,57 St (F)
+15816,15616,15404,15493,Manhattan,89,,0.58,Lexington Av-63 St (F)
+14826,16223,15261,15404,Manhattan,143,,0.94,"Prince St (N,R)"
+13031,13641,14690,15335,Manhattan,645,,4.39,"135 St (2,3)"
